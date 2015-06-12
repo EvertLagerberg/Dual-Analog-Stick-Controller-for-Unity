@@ -36,5 +36,5 @@ Set up in Unity
   8. Press play to start using your home made controller in Unity!
 
 Thank you!
-Evert Lagerberg
+//Evert Lagerberg
 [ evert.lagerberg@gmail.com ](mailto:evert.lagerberg@gmail.com)
