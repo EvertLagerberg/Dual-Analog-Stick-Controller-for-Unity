@@ -1,9 +1,6 @@
 Arduino to Unity Dual Analog Sticks FPS Controller
 
-Hi, this project uses two analog thumbsticks as input. The thumbsticks are connected to an Arduino
-which send input data over serial to Unity. In Unity the the data is used in a C#-script to be added
-to the First Person Controller as a component.  Below are instructions on how to build you own 
-controller and set it up in Unity.
+Hi, this project uses two analog thumbsticks as input. The thumbsticks are connected to an Arduino which send input data over serial to Unity. In Unity the the data is used in a C#-script to be added to the First Person Controller as a component.  Below are instructions on how to build you own controller and set it up in Unity.
 
 Instructions:
 
