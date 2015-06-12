@@ -40,4 +40,4 @@ Set up in Unity
 
 Thank you!
 Evert Lagerberg
-[ evert.lagerberg@gmail.com ] (mailto:evert.lagerberg@gmail.com)
+[ evert.lagerberg@gmail.com ](mailto:evert.lagerberg@gmail.com)
