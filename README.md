@@ -26,11 +26,11 @@ Components:
 
 Assembly
 
-  1. Solder each thumbstick to a break out board. [ Instructions ](https://www.sparkfun.com/tutorials/272)
+  1. Solder each thumbstick to a break out board. [ Instructions ](https://www.sparkfun.com/tutorials/272).
   2. Connect the thumbssticks to the arduino according to [ WireDiagram ](WiringDiagram.png).
   3. Flash the Arduino with the [DoubleAnalogSticksToSerial.ino](DoubleAnalogSticksToSerial.ino) sketch in this repository.
-  4. In the Arduino IDE, go to "Tools > Serial Monitor". If you have done all the previous steps correctly, 
-  you should now be able to see the input values of the thumbsticks that are sent to the serial port.
+  4. In the Arduino IDE, go to "Tools > Serial Monitor". If you have done all the previous steps
+  correctly,you should now be able to see the input values of the thumbsticks that are sent to the serial port.
   
 Set up in Unity
 
